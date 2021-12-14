@@ -7,7 +7,7 @@ result = rand() % 100 + 1;
 printf("I have in mind a number in between 1 and 100, can you find it ?");
 
 int number_to_guess;
-scanf("%d",number_to_guess);
+scanf("%d",&number_to_guess);
 
 while(number_to_guess != result){
 if(number_to_guess < result){
