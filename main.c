@@ -1,14 +1,14 @@
 int main() { 
-	prinft("1\n");
-	prinft("2\n");
-	prinft("3\n");
-	prinft("4\n");
-	prinft("5\n");	
-	prinft("6\n");
-	prinft("7\n");
-	prinft("8\n");
-	prinft("9\n");
-	prinft("10\n");
+	printf("1\n");
+	printf("2\n");
+	printf("3\n");
+	printf("4\n");
+	printf("5\n");	
+	printf("6\n");
+	printf("7\n");
+	printf("8\n");
+	printf("9\n");
+	printf("10\n");
 	return 0;
 
 } 
